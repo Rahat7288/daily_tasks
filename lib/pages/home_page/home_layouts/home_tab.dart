@@ -18,6 +18,5 @@ class _HomeTabState extends State<HomeTab> {
         child: Text('hello'),
       ),
     );
-    ;
   }
 }
